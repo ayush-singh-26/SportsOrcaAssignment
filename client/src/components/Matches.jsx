@@ -9,7 +9,7 @@ export default function Matches() {
     useEffect(() => {
         const fetchMatches = async () => {
             try {
-                const res = await axios.get('http://localhost:8000/matches');
+                const res = await axios.get('https://sportsorcaassignment-ajvs.onrender.com/matches');
                 setMatches(res.data);
                 setLoading(false);
             } catch (err) {
