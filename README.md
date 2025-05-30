@@ -6,13 +6,12 @@ A full-stack app that displays today's upcoming football matches using the API-F
 📦 Tech Stack
 - Frontend: React.js (Vite)
 - Backend: Node.js + Express
-- API: API-Football
+- API: https://www.api-football.com/
 
 1. Clone the Repo
 
 ```bash
   git clone https://github.com/ayush-singh-26/SportsOrcaAssignment.git
-  cd client
 ```
 2. Backend Setup
 
