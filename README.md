@@ -35,7 +35,7 @@ A full-stack app that displays today's upcoming football matches using the API-F
 ```bash
   cd client
   npm install
-  npm run start
+  npm run dev
 ```
 
 
